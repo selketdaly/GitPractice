@@ -6,7 +6,7 @@
 package gitpractice;
 
 /**
- *
+ * Adding java doc
  * @author Clare
  */
 public class Main {
